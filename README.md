@@ -1,4 +1,4 @@
-# 📋 React Native Todo App
+# 📋 Expo React Native Todo App
 
 A fully functional Todo App built using React Native, Expo, TypeScript, and NativeWind.
 
@@ -34,7 +34,5 @@ This project includes:
 
 # 📱 Screenshots
 
-Add your screenshots here.
-
 ```bash
-/assets/screenshots/
+screenshots/

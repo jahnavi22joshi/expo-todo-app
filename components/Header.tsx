@@ -8,7 +8,7 @@ const Header = () => {
       </Text>
 
       <Text className="text-blue-100 mt-1">
-        Organize your daily tasks
+        Stay productive every day
       </Text>
     </View>
   );

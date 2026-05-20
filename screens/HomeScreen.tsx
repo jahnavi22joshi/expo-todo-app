@@ -584,7 +584,7 @@ const HomeScreen = () => {
           />
         )}
         ListEmptyComponent={
-          <View className="items-center mt-32">
+          <View className="items-center" style={{ marginTop: 200 ,}}>
 
             <Text className="text-2xl font-bold text-gray-700">
               No Todos Yet
